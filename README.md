@@ -56,7 +56,7 @@ For any enquiries or support, please contact:
 - Email: [SemGuide@gmail.com](mailto:adarshnampalli71@gmail.com)
 
 ## Contributors
-- Adarsh Nampally
+- Richith Nampally
 
 
 
